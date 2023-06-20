@@ -22,6 +22,10 @@ const navLinks = [
     path: "/dashboard",
     title: "Dashboard",
   },
+  {
+    path: '/products',
+    title:'Products',
+  }
 ];
 
 const Navbar = () => {
