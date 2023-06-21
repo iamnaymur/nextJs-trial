@@ -13,7 +13,7 @@ const ManageSingleProduct = ({ product }) => {
       </td>
       <td className="border border-slate-400">
         <button className="bg-blue-500 text-white px-3 py-2 rounded-md">
-          Delete    
+          Delete
         </button>
       </td>
     </tr>
