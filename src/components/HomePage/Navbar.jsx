@@ -1,5 +1,5 @@
 import Link from "next/link";
-import NavLink from "./Navlink";
+import NavLink from "./NavLink";
 
 const navLinks = [
   {
@@ -23,9 +23,9 @@ const navLinks = [
     title: "Dashboard",
   },
   {
-    path: '/products',
-    title:'Products',
-  }
+    path: "/products",
+    title: "Products",
+  },
 ];
 
 const Navbar = () => {

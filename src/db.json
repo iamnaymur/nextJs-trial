@@ -54,7 +54,7 @@
   "products": [
     {
       "id": 2,
-      "title": "Samsung Galaxy S25",
+      "title": "Samsung Galaxy S23",
       "price": "12",
       "categoryId": 1,
       "features": [
@@ -66,43 +66,27 @@
     },
     {
       "id": 3,
-      "title": "Aony Bravia 4K Smart TV",
-      "price": "170",
+      "title": "sony Bravia 4K Smart TV",
+      "price": "150",
       "categoryId": 1,
-      "features": ["65-inch 4K HDR display", "Android TV", "Dolby Atmos sound"],
+      "features": [
+        "65-inch 4K HDR display",
+        "Android TV",
+        "Dolby Atmos sound"
+      ],
       "imageUrl": "https://example.com/sonytv.jpg"
     },
     {
       "id": 4,
       "title": "Levi's Men's 501 Jeans",
-      "price": "140",
+      "price": "1400",
       "categoryId": 2,
-      "features": ["100% cotton", "Classic straight fit", "Button fly"],
+      "features": [
+        "100% cotton",
+        "Classic straight fit",
+        "Button fly"
+      ],
       "imageUrl": "https://example.com/levisjeans.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Bdidas Originals Superstar Sneakers",
-      "price": "101",
-      "categoryId": 2,
-      "features": [
-        "Breathable mesh upper",
-        "Max Air cushioning",
-        "Rubber outsole"
-      ],
-      "imageUrl": "https://example.com/nikeairmax270.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "price": 12,
-      "categoryId": 3,
-      "features": [
-        "Author: J.K. Rowling",
-        "Paperback edition",
-        "First book of the Harry Potter series"
-      ],
-      "imageUrl": "https://example.com/harrypotter.jpg"
     },
     {
       "id": 7,
@@ -213,19 +197,15 @@
       "imageUrl": "https://example.com/standmixer.jpg"
     },
     {
-      "id": 16,
-      "title": "iPad Pro",
-      "price": 1099,
-      "categoryId": 1,
-      "features": ["M1 chip", "Liquid Retina XDR display", "Face ID"],
-      "imageUrl": "https://example.com/ipadpro.jpg"
-    },
-    {
       "id": 17,
       "title": "Adidas Ultraboost 21",
       "price": 180,
       "categoryId": 2,
-      "features": ["Primeknit upper", "Boost midsole", "Responsive cushioning"],
+      "features": [
+        "Primeknit upper",
+        "Boost midsole",
+        "Responsive cushioning"
+      ],
       "imageUrl": "https://example.com/ultraboost21.jpg"
     },
     {
@@ -233,7 +213,11 @@
       "title": "Modern Metal Wall Art",
       "price": 89,
       "categoryId": 4,
-      "features": ["Abstract design", "Hand-painted", "Easy to hang"],
+      "features": [
+        "Abstract design",
+        "Hand-painted",
+        "Easy to hang"
+      ],
       "imageUrl": "https://example.com/metalwallart.jpg"
     },
     {

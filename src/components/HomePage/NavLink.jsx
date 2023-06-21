@@ -1,5 +1,5 @@
 "use client";
-import classNames from "@/utils/classnames";
+import classNames from "@/utils/classNames";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 const NavLink = ({
